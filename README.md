@@ -4,7 +4,7 @@ CSCI 5561: Computer Vision Final Project
 
 Title: Semantic Reconstruction: A COLMAP - UNet Fusion with Voting
 
-Advisor: Junaed Sattar
+Advisor: Volkan Isler
 
 Team: Amitabha, Srijan, Roozbeh, Tejasvi
 
